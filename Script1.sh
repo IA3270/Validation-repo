@@ -1,1 +1,1 @@
-echo "Task 1 complete!!" "This is a further test" "This some additional 'code' to fire off Project 2!"
+echo "Task 1 complete!!" "This is a further test" "This additional 'code' fires off Project 2!" 
